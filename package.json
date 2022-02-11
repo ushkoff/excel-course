@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ushkoff/excel-course.git"
+    "url": "git+https://github.com/ushkoff/excel-course.git"
   },
   "keywords": [],
   "author": "Ivan Ushkov",
   "browserslist": "> 0.25%, not dead",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ushkoff/excel-course/issues"
+    "url": "https://github.com/ushkoff/excel-course/issues"
   },
-  "homepage": "https://github.com/Ushkoff/excel-course#readme",
+  "homepage": "https://github.com/ushkoff/excel-course#readme",
   "devDependencies": {
     "@babel/core": "^7.14.6",
     "@babel/eslint-parser": "^7.14.7",
@@ -38,6 +38,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.12.1"
+    "@babel/polyfill": "^7.12.1",
+    "normalize.css": "^8.0.1"
   }
 }
